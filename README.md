@@ -2,5 +2,14 @@
 
 ## Employees Module
 ### 1 List of Employees
-![]("Screeshots/Emp_List.jpg")
+![](screenshots/Emp_List.png)
+
+### 2 Add New Employees
+![](screenshots/Emp_New.png)
+
+### 3 Edit Employees
+![](screenshots/Emp_Edit.png)
+
+### 4 Delete Employees
+![](screenshots/Emp_Delete.png)
 
